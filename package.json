@@ -1,0 +1,16 @@
+{
+  "name": "wpp-unig",
+  "version": "1.0.0",
+  "description": "\"Assistente virtual UNIG\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\" Luis Paulo Martins, Vitor Hugor Lemes Nascimento e Luiz Felipe Trindade \"",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.46.3",
+    "dotenv": "^16.0.2"
+  }
+}
