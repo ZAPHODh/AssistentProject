@@ -10,7 +10,12 @@
   "author": "\" Luis Paulo Martins, Vitor Hugor Lemes Nascimento e Luiz Felipe Trindade \"",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^4.46.3",
-    "dotenv": "^16.0.2"
+    "@open-wa/wa-automate": "^4.47.0",
+    "dotenv": "^16.0.2",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "2.7.1"
   }
 }

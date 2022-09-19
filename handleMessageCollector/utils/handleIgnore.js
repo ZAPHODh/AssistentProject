@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 let ignore = [];
 
 const handleIgnore = (order, message) => {
